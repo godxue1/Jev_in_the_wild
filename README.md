@@ -1,5 +1,5 @@
 # Jev in the Wild: A Data-Driven Analysis of the Jev Model's Functionality, Applications and Ecosystem
-
+> **Jev is a lightweight decision model for fast, structured decisions in AI systems and agents.**
 > **What are people actually building with Jev?** We traced the model through **2,170 public GitHub projects** to see where it is used, what decisions it makes, and which parts of the ecosystem attract attention.
 
 [**Paper**](https://arxiv.org/abs/2609.30216) · [**PDF**](https://arxiv.org/pdf/2609.30216) · [**Project**](https://github.com/linggm3/jev-in-the-wild) · [**BibTeX**](#citation)  
